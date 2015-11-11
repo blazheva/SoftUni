@@ -1,0 +1,14 @@
+thhp://www.novini.cloudvps.bg
+
+Homework:
+Set up Drupal to support blogging by multiple users. 
+ Create a blog post content type - title, body, images, tags.
+ Create a blogger role. Configure permissions to allow users having this role to be able to
+add blog posts, edit and delete only their own posts, etc.
+ Add some fields to the user account - real name, telephone, textarea for "Interests",
+textarea for biography etc.
+ Add some new users from the administration and assign them the "blogger" role.
+ Create a view for blogger biography. Display Real name, telephone, interests (trimmed to
+200 chars) and biography (trimmed to 200 chars). Create a block display. Add the
+Blogger biography block in the right sidebar on the blog post page only. It should display
+the information of the blog post’s author.
